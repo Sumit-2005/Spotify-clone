@@ -1,4 +1,4 @@
-In this project, I'll be makng spotify-webplayer clone
+In this project, I'll be making spotify-webplayer clone
 <br>
 This is my second clone project and I will be posting all updates on github and twitter/X.
 <br>
