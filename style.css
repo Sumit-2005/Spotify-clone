@@ -49,6 +49,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-left: 7px
 }
 
 .bell {
@@ -170,3 +171,4 @@ header {
     width: 117px;
     font-size: 0.9rem;
 }
+
