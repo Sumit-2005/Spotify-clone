@@ -5,14 +5,16 @@
 }
 
 header {
-    height: 100px;
-    background-color: rgb(4, 22, 51);
+    height: 60px;
+    background-color: rgb(25 20 20);
     padding-left: 15px;
     padding-top: 10px;
+    display: flex;
 }
 
 .topbar-left {
     display: flex;
+    width: 78%;
 }
 
 .back-arrow {
@@ -90,7 +92,81 @@ header {
     display: flex;
 }
 
-header {
+.topbar-right div {
+    margin-right: 10px;
+}
+
+.header2 {
+    height: 50px;
+    background-color: rgb(25 20 20);
+    padding-left: 15px;
     display: flex;
 }
 
+.all {
+    height: 35px;
+    width: 40px;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+    font-weight: 550;
+    margin-right: 7px;
+}
+
+.music {
+    height: 35px;
+    width: 65px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+    font-weight: 550;
+    margin-right: 7px;
+}
+
+.podcasts {
+    height: 35px;
+    width: 80px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+    font-weight: 550;
+}
+
+.all:active {
+    background-color: Black;
+    color: white;
+}
+
+.music:active {
+    background-color: white;
+    color: black;
+}
+
+.podcasts:active {
+    background-color: white;
+    color: black;
+}
+
+.premium:hover {
+    height: 36px;
+    width: 141px;
+    font-size: 0.9rem;
+}
+
+.install:hover {
+    height: 36px;
+    width: 117px;
+    font-size: 0.9rem;
+}
