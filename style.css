@@ -172,3 +172,79 @@ header {
     font-size: 0.9rem;
 }
 
+.library {
+    background-color: rgb(25 20 20);
+    height: 220px;
+    padding-top: 10px;
+    border-bottom: 2px solid white;
+}
+
+.line1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.lib1 {
+    height: 70px;
+    width: 360px;
+    border-radius: 7px;
+    margin-left: 15px;
+    background-color: black;
+}
+
+.lib2 {
+    height: 70px;
+    width: 360px;
+    border-radius: 7px;
+    background-color: black;
+}
+
+.lib3 {
+    height: 70px;
+    width: 360px;
+    border-radius: 7px;
+    background-color: black;
+}
+
+.lib4 {
+    height: 70px;
+    width: 360px;
+    border-radius: 7px;
+    background-color: black;
+}
+
+.line2 {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 12px;
+}
+
+.lib5 {
+    height: 70px;
+    width: 360px;
+    border-radius: 7px;
+    margin-left: 15px;
+    background-color: black;
+}
+
+.lib6 {
+    height: 70px;
+    width: 360px;
+    border-radius: 7px;
+    background-color: black;
+}
+
+.lib7 {
+    height: 70px;
+    width: 360px;
+    border-radius: 7px;
+    background-color: black;
+}
+
+.lib8 {
+    height: 70px;
+    width: 360px;
+    border-radius: 7px;
+    background-color: black;
+}
+
