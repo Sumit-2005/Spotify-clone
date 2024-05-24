@@ -190,6 +190,8 @@ header {
     border-radius: 7px;
     margin-left: 15px;
     background-color: black;
+    display: flex;
+    color: white;
 }
 
 .lib2 {
@@ -197,6 +199,8 @@ header {
     width: 360px;
     border-radius: 7px;
     background-color: black;
+    display: flex;
+    color: white;
 }
 
 .lib3 {
@@ -204,6 +208,8 @@ header {
     width: 360px;
     border-radius: 7px;
     background-color: black;
+    display: flex;
+    color: white;
 }
 
 .lib4 {
@@ -211,6 +217,8 @@ header {
     width: 360px;
     border-radius: 7px;
     background-color: black;
+    display: flex;
+    color: white;
 }
 
 .line2 {
@@ -234,6 +242,8 @@ header {
     width: 360px;
     border-radius: 7px;
     background-color: black;
+    display: flex;
+    color: white;
 }
 
 .lib7 {
@@ -241,6 +251,8 @@ header {
     width: 360px;
     border-radius: 7px;
     background-color: black;
+    display: flex;
+    color: white;
 }
 
 .lib8 {
@@ -248,11 +260,47 @@ header {
     width: 360px;
     border-radius: 7px;
     background-color: black;
+    display: flex;
+    color: white;
 }
 
+.img1 {
+    height: 70px;
+    width: 70px;
+    background-image: url("https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F07%2Ftravis-scott-nike-road-to-utopia-sweepstakes-info-1.jpg?cbr=1&q=90");
+    background-size: cover;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
 
+.img2 {
+    height: 70px;
+    width: 70px;
+    background-image: url("https://i.ytimg.com/vi/NyTkaQHdySM/sddefault.jpg?v=643426fc");
+    background-size: cover;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
 
-.img {
+.img3 {
+    height: 70px;
+    width: 70px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThhd0iWYVnVZ1Osi9Cg-rGUpQGaXjLCLpZhA&s");
+    background-size: cover;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+
+.img4 {
+    height: 70px;
+    width: 70px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX6TtKcZ9d-baODeHZC4sm59lRumH9ayb1Yx1nPBfdbg&s");
+    background-size: cover;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+
+.img5 {
     height: 70px;
     width: 70px;
     background-image: url("https://i.scdn.co/image/ab6761610000e5eb0261696c5df3be99da6ed3f3");
@@ -261,8 +309,36 @@ header {
     border-bottom-left-radius: 7px;
 }
 
-.name5 {
-    padding-top: 25px;
-    padding-left: 20px;
+.img6 {
+    height: 70px;
+    width: 70px;
+    background-image: url("https://variety.com/wp-content/uploads/2024/03/Badshah.jpg?w=1000");
+    background-size: cover;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+
+.img7 {
+    height: 70px;
+    width: 70px;
+    background-image: url("https://images.genius.com/f047f8067b6b0eb07d331fb83c0882f0.1000x1000x1.jpg");
+    background-size: cover;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+
+.img8 {
+    height: 70px;
+    width: 70px;
+    background-image: url("https://curlytales.com/wp-content/uploads/2023/10/NAVRATRI-2.jpg");
+    background-size: cover;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+
+.name {
+    padding-top: 27px;
+    padding-left: 15px;
     font-weight: 550;
+    font-size: 0.88rem;
 }
