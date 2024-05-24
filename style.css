@@ -6,7 +6,7 @@
 
 header {
     height: 60px;
-    background-color: rgb(25 20 20);
+    background-color: black;
     padding-left: 15px;
     padding-top: 10px;
     display: flex;
@@ -99,7 +99,7 @@ header {
 
 .header2 {
     height: 50px;
-    background-color: rgb(25 20 20);
+    background-color: black;
     padding-left: 15px;
     display: flex;
 }
@@ -173,7 +173,7 @@ header {
 }
 
 .library {
-    background-color: rgb(25 20 20);
+    background-color: black;
     height: 220px;
     padding-top: 10px;
     border-bottom: 2px solid white;
@@ -189,7 +189,7 @@ header {
     width: 360px;
     border-radius: 7px;
     margin-left: 15px;
-    background-color: black;
+    background-color: rgb(25 20 20);
     display: flex;
     color: white;
 }
@@ -198,7 +198,7 @@ header {
     height: 70px;
     width: 360px;
     border-radius: 7px;
-    background-color: black;
+    background-color: rgb(25 20 20);
     display: flex;
     color: white;
 }
@@ -207,7 +207,7 @@ header {
     height: 70px;
     width: 360px;
     border-radius: 7px;
-    background-color: black;
+    background-color: rgb(25 20 20);
     display: flex;
     color: white;
 }
@@ -216,7 +216,7 @@ header {
     height: 70px;
     width: 360px;
     border-radius: 7px;
-    background-color: black;
+    background-color: rgb(25 20 20);
     display: flex;
     color: white;
 }
@@ -232,7 +232,7 @@ header {
     width: 360px;
     border-radius: 7px;
     margin-left: 15px;
-    background-color: black;
+    background-color: rgb(25 20 20);
     display: flex;
     color: white;
 }
@@ -241,7 +241,7 @@ header {
     height: 70px;
     width: 360px;
     border-radius: 7px;
-    background-color: black;
+    background-color: rgb(25 20 20);
     display: flex;
     color: white;
 }
@@ -250,7 +250,7 @@ header {
     height: 70px;
     width: 360px;
     border-radius: 7px;
-    background-color: black;
+    background-color: rgb(25 20 20);
     display: flex;
     color: white;
 }
@@ -259,7 +259,7 @@ header {
     height: 70px;
     width: 360px;
     border-radius: 7px;
-    background-color: black;
+    background-color: rgb(25 20 20);
     display: flex;
     color: white;
 }
