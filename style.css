@@ -225,6 +225,8 @@ header {
     border-radius: 7px;
     margin-left: 15px;
     background-color: black;
+    display: flex;
+    color: white;
 }
 
 .lib6 {
@@ -246,4 +248,21 @@ header {
     width: 360px;
     border-radius: 7px;
     background-color: black;
+}
+
+
+
+.img {
+    height: 70px;
+    width: 70px;
+    background-image: url("https://i.scdn.co/image/ab6761610000e5eb0261696c5df3be99da6ed3f3");
+    background-size: cover;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+
+.name5 {
+    padding-top: 25px;
+    padding-left: 20px;
+    font-weight: 550;
 }
