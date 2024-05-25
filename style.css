@@ -176,7 +176,6 @@ header {
     background-color: black;
     height: 220px;
     padding-top: 10px;
-    border-bottom: 2px solid white;
 }
 
 .line1 {
@@ -341,4 +340,11 @@ header {
     padding-left: 15px;
     font-weight: 550;
     font-size: 0.88rem;
+}
+
+.content {
+    background-color: black;
+    height: 300px;
+    color: white;
+    padding-left: 20px;
 }
