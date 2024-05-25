@@ -344,7 +344,81 @@ header {
 
 .content {
     background-color: black;
-    height: 300px;
+    height: 500px;
     color: white;
     padding-left: 20px;
+}
+
+.content h2:hover {
+    text-decoration: underline;
+}
+
+.oneline {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.dm1 {
+    height: 300px;
+    width: 250px;
+    background-color: black;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+    padding-right: 10px;
+}
+
+.dm1:hover {
+    background-color: rgb(25 20 20);
+}
+ 
+.pic1 {
+    height: 215px;
+    width: 245px;
+    background-image: url("https://variety.com/wp-content/uploads/2024/03/Badshah.jpg?w=1000");
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.d1 {
+    margin-top: 10px;
+}
+
+.suggs {
+    margin-top: 8px;
+    color: #CCCCCC;
+    font-size: 0.9rem;
+}
+
+.pic2 {
+    height: 215px;
+    width: 245px;
+    background-image: url("https://images.genius.com/f047f8067b6b0eb07d331fb83c0882f0.1000x1000x1.jpg");
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.pic3 {
+    height: 215px;
+    width: 245px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX6TtKcZ9d-baODeHZC4sm59lRumH9ayb1Yx1nPBfdbg&s");
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.pic4 {
+    height: 215px;
+    width: 245px;
+    background-image: url("https://i.scdn.co/image/ab6761610000e5eb85237b56097a9579b52338bf");
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.pic5 {
+    height: 215px;
+    width: 245px;
+    background-image: url("https://i.scdn.co/image/ab6761610000e5eb1eabab66e670e65bf1acc422");
+    background-size: cover;
+    border-radius: 10px;
 }
