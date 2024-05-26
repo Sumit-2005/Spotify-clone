@@ -344,7 +344,7 @@ header {
 
 .content {
     background-color: black;
-    height: 500px;
+    height: 400px;
     color: white;
     padding-left: 20px;
 }
@@ -419,6 +419,46 @@ header {
     height: 215px;
     width: 245px;
     background-image: url("https://i.scdn.co/image/ab6761610000e5eb1eabab66e670e65bf1acc422");
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.pic6 {
+    height: 215px;
+    width: 245px;
+    background-image: url("https://i.scdn.co/image/ab67616d00001e02a90a3cbabaee190af2f972bf");
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.pic7 {
+    height: 215px;
+    width: 245px;
+    background-image: url("https://www.allaboutmusic.in/wp-content/uploads/2019/08/DIVINE-30364-ConvertImage-ConvertImage-scaled.jpg");
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.pic8 {
+    height: 215px;
+    width: 245px;
+    background-image: url("https://i.scdn.co/image/ab6761610000e5eb8f553f96d564d1005a92d131");
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.pic9 {
+    height: 215px;
+    width: 245px;
+    background-image: url("https://i1.sndcdn.com/artworks-000146543726-0myyjw-t500x500.jpg");
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.pic10 {
+    height: 215px;
+    width: 245px;
+    background-image: url("https://i.scdn.co/image/ab67616d0000b273628c920567640b4cea99a394");
     background-size: cover;
     border-radius: 10px;
 }
