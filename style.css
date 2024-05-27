@@ -462,3 +462,34 @@ header {
     background-size: cover;
     border-radius: 10px;
 }
+
+.foot1 {
+    background-color: black;
+    height: 300px;
+    width: 1200px;
+    display: flex;
+}
+
+.foot1 a {
+    color: #CCCCCC;
+}
+
+.foot1 a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.foot1 p {
+    color: white;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+ul a {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.foot1 ul {
+    margin-right: 150px;
+}
