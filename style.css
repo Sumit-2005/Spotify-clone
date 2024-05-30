@@ -21,7 +21,7 @@ header {
     height: 35px;
     width: 35px;
     border-radius: 50%;
-    background-color: black;
+    background-color: rgb(25 20 20);
     color: white;
     display: flex;
     justify-content: center;
@@ -32,7 +32,7 @@ header {
     height: 35px;
     width: 35px;
     border-radius: 50%;
-    background-color: black;
+    background-color: rgb(25 20 20);
     color: white;
     display: flex;
     justify-content: center;
@@ -44,7 +44,7 @@ header {
     height: 35px;
     width: 35px;
     border-radius: 50%;
-    background-color: black;
+    background-color: rgb(25 20 20);
     color: white;
     display: flex;
     justify-content: center;
@@ -56,7 +56,7 @@ header {
     height: 35px;
     width: 35px;
     border-radius: 50%;
-    background-color: black;
+    background-color: rgb(25 20 20);
     color: white;
     display: flex;
     justify-content: center;
@@ -67,7 +67,7 @@ header {
     height: 35px;
     width: 115px;
     border-radius: 20px;
-    background-color: black;
+    background-color: rgb(25 20 20);
     color: white;
     display: flex;
     justify-content: center;
@@ -465,9 +465,11 @@ header {
 
 .foot1 {
     background-color: black;
-    height: 300px;
+    height: 230px;
     width: 1200px;
     display: flex;
+    border-bottom: 0.5px solid white;
+    font-size: 0.9rem;
 }
 
 .foot1 a {
@@ -492,4 +494,59 @@ ul a {
 
 .foot1 ul {
     margin-right: 150px;
+}
+
+.foot2 {
+    background-color: black;
+    height: 230px;
+    width: 320px;
+    display: flex;
+    border-bottom: 0.5px solid white;
+}
+
+.foot2 div {
+    margin-right: 15px;
+}
+
+footer {
+    display: flex;
+}
+
+.insta {
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background-color: rgb(25 20 20);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-left: 150px;
+}
+
+.twitter {
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background-color: rgb(25 20 20);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.facebook {
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background-color: rgb(25 20 20);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.foot3 {
+    background-color: pink;
+    height: 200px;
 }
